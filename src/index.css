@@ -60,3 +60,6 @@
     dark:from-gray-900  dark:to-gray-800 dark:text-white;
   }
 }
+html{
+  @apply scroll-smooth
+}

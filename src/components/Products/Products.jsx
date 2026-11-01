@@ -62,7 +62,7 @@ const ProductData =[
 ]
 const Products = () => {
   return (
-    <div>
+    <div id="shop">
         <div className="container">
             {/* headere section */}
             <Heading title="Our Products" subtitle={"Explore Our Products"}/>

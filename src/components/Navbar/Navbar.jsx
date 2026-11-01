@@ -44,7 +44,7 @@ const DropDownLinks = [
 ];
 const Navbar = ({}) => {
   return (
-    <div className="bg-white dark:bg-gray-900 dark:text-white duration-200 relative z-40">
+    <div className="fixed top-0 left-0 w-full z-50 bg-white dark:bg-gray-900 dark:text-white duration-200 shadow-md">
       <div className="py-4">
         <div className="container flex justify-between items-center">
           {/* Logo and link */}

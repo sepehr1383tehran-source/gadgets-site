@@ -33,7 +33,7 @@ const BlogData = [
 ];
 const Blogs = () => {
   return (
-    <div className="my-12">
+    <div className="my-12" id="about">
       <div className="container">
         <Heading title={"Recent News"} subtitle={"Explore Our Blogs"} />
 
